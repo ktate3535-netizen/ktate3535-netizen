@@ -6,6 +6,6 @@
  - [Role Assignments](https://github.com/ktate3535-netizen/role-assignments-)
  - [Group Assignments](https://github.com/ktate3535-netizen/group-assignments)
  - [Identity Lifecycle](https://github.com/ktate3535-netizen/identity-lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/ktate3535-netizen/audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
