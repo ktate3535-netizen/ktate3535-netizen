@@ -4,7 +4,7 @@
  - [Creating User's in Entra ID](https://github.com/ktate3535-netizen/user-accounts)
  - [Cloud Provisioning - P2 Licensing](https://github.com/ktate3535-netizen/p2-licensing-)
  - [Role Assignments](https://github.com/ktate3535-netizen/role-assignments-)
- - [Group Assignments]()
+ - [Group Assignments](https://github.com/ktate3535-netizen/group-assignments)
  - [Identity Lifecycle]()
  - [Audit Logs]()
  - [Sign-In Logs]()
